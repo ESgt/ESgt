@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ESgt
+- 👋 Hi, I’m @ESgt i.e. Eric Sargeant
 - 👀 I’m interested in J CODE.
 - 🌱 I’m currently learning J and have been for many years.
 - 💞️ I’m looking to collaborate on learning J.
